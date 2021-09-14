@@ -40,7 +40,7 @@
 1. [Курс на курсере](https://www.coursera.org/learn/python-osnovy-programmirovaniya) – поможет в изучении основ программирования на Python
 2. [pythontutor.ru](https://pythontutor.ru/) – также для основ программирования, но материал текстом :)
 3. Учебник Лутца:
-* [учебник на англ](https://vk.com/doc44301783_517813011?hash=702af85baf625360b9&dl=95b74aab4d623be4c6)
+* [учебник на английском](https://vk.com/doc44301783_517813011?hash=702af85baf625360b9&dl=95b74aab4d623be4c6)
 * [учебник на русском](https://vk.com/doc44301783_517813053?hash=da4e86b2ebc1ab461d&dl=125d77221c81d99db0)
 
 
