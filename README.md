@@ -9,8 +9,8 @@
 Семинарские контесты хранятся в этом гугл-документе (появится позже).
 
 * Задачи для семинара 1 – https://official.contest.yandex.ru/contest/29243/enter/
-* Задачи для семинара 2 – https://official.contest.yandex.ru/contest/29360/enter/
-* Задачи для семинара 3 – https://official.contest.yandex.ru/contest/29484/enter/
+* Задачи для семинаров 2-3 – https://official.contest.yandex.ru/contest/29360/enter/
+* Задачи для семинара 4 – https://official.contest.yandex.ru/contest/29484/enter/
 
 ## О курсе
 
