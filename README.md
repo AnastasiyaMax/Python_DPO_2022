@@ -12,6 +12,7 @@
 * Задачи для семинаров 2-3 – https://official.contest.yandex.ru/contest/29360/enter/
 * Задачи для семинара 4 – https://official.contest.yandex.ru/contest/29484/enter/
 * Задачи для семинара 5 – https://official.contest.yandex.ru/contest/29700/enter/
+* Задачи для семинара 6-7 дополнительные (решать не обязательно, перед началом лучше почитать про [магические методы](https://www.tutorialsteacher.com/python/magic-methods-in-python)) – https://official.contest.yandex.ru/contest/29912/enter/
 
 ## О курсе
 
