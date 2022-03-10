@@ -8,7 +8,7 @@
 
 Семинарские контесты хранятся в этом гугл-документе (появится позже).
 
-* Задачи для семинара 1 – https://official.contest.yandex.ru/contest/29243/enter/
+* Задачи для семинара 1 – https://contest.yandex.ru/contest/29243/
 
 
 ## О курсе
