@@ -4,40 +4,37 @@
 
 Материалы готовили Ян Пиле, Татьяна Рогович, Анастасия Максимовская.
 
-Расписание занятий и список тем можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/1OlJgZRiDicDdyn9jiz5yNyce0h13Ir7Np2gqdWwoUxE). Материалы лекций находятся в папках в этом репозитории.
+Расписание занятий и список тем можно посмотреть [здесь](https://docs.google.com/spreadsheets/d/11h_rt0IF4yfWaRakehj1DW_JTmz9_77Lt6x-Ac9Ygws/edit#gid=174136418). Материалы лекций находятся в папках в этом репозитории.
 
 Семинарские контесты хранятся в этом гугл-документе (появится позже).
 
 * Задачи для семинара 1 – https://official.contest.yandex.ru/contest/29243/enter/
-* Задачи для семинаров 2-3 – https://official.contest.yandex.ru/contest/29360/enter/
-* Задачи для семинара 4 – https://official.contest.yandex.ru/contest/29484/enter/
-* Задачи для семинара 5 – https://official.contest.yandex.ru/contest/29700/enter/
-* Задачи для семинара 6-7 дополнительные (решать не обязательно, перед началом лучше почитать про [магические методы](https://www.tutorialsteacher.com/python/magic-methods-in-python)) – https://official.contest.yandex.ru/contest/29912/enter/
+
 
 ## О курсе
 
 Курс разделен на 3 части: основы программирования на python (8 занятий), сбор данных с помощью python (4 занятия), анализ данных на python (6 занятий).
 
 **Формы контроля по основам программирования:**
-* [Домашнее задание 1](https://official.contest.yandex.ru/contest/29361/enter/) – типы данных, условный оператор (выдается после 2 занятия)
-* *[Домашнее задание Р](https://docs.google.com/document/d/12yBNx3ycTtLwQic87ICSaAZNMvDBETtvtkjiQtqRzZ4/edit?usp=sharing) – регулярные выражения (выдается после 7 занятия) – БОНУС (необязательно)*
-* [Домашнее задание 2](https://official.contest.yandex.ru/contest/29698/enter/) – циклы, множества, словари
-* [Домашнее задание 3](https://official.contest.yandex.ru/contest/30015/enter/) – классы (выдается после 7 занятия)
-* *[Домашняя контрольная по Python](https://official.contest.yandex.ru/contest/31042/enter/) – БОНУС (необязательно)*
+* Домашнее задание 1 – типы данных, условный оператор (выдается после 2 занятия)
+* *Домашнее задание Р – регулярные выражения (выдается после 7 занятия) – БОНУС (необязательно)*
+* Домашнее задание 2 – циклы, множества, словари
+* Домашнее задание 3 – классы (выдается после 7 занятия)
+* *Домашняя контрольная по Python – БОНУС (необязательно)*
 
 **Формы контроля по сбору данных:**
 
 Обязательно нужно сделать или проект 2, или проект 3. Если сделаете оба, то оценка за второй пойдет как БОНУС.
 
-* [Проект 1 (первая часть)](https://docs.google.com/document/d/16xLc9WPXgF-TrvGfo0WO7b1bzgpL1n14a-Mj5L5Ilu0/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 9 занятия)
-* [Проект 2](https://docs.google.com/document/d/1xTwjfx-j8lHPYzDJxjZVRBMGll2NPyKyVDICBZrpMCg/edit?usp=sharing) – сбор данных через API (выдается после 10 занятия), БОНУС
-* [Проект 3](https://docs.google.com/document/d/1yBJvv6uTxj6O37HFar6pL4DPRYcWJV2vql08dDSWMO8/edit?usp=sharing) – сбор данных с помощью Selenium (выдается после 11 занятия).
+* Проект 1 (первая часть) – парсинг данных с помощью requests и BeautifulSoup (выдается после 9 занятия)
+* Проект 2 – сбор данных через API (выдается после 10 занятия), БОНУС
+* Проект 3 – сбор данных с помощью Selenium (выдается после 11 занятия).
 
 * **Финальный проект по двум частям курса** – телеграм-бот, см. описание ниже + лекцию 12 (выдается после 12 занятия).
 
 **Формы контроля по анализу данных**:
-* [Домашнее задание 4](https://github.com/AnastasiyaMax/Python_DPO_2021_fall/tree/main/hw_pandas) – задания на использование библиотек pandas, numpy (выдается после 15 занятия)
-* [Проект 1 (вторая часть)](https://docs.google.com/document/d/11JRFkgnWiL0SRWs8JgOwVvl_3zn9dC0qawNwTrUIeD4/edit?usp=sharing) – анализ и визуализация собранных данных (выдается после 17 занятия)
+* Домашнее задание 4 – задания на использование библиотек pandas, numpy (выдается после 15 занятия)
+* Проект 1 (вторая часть) – анализ и визуализация собранных данных (выдается после 17 занятия)
 
 ### Формула оценки:
 
