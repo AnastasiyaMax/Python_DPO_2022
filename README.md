@@ -11,6 +11,7 @@
 * Задачи для семинаров 1-2 – https://official.contest.yandex.ru/contest/29243/enter
 * Задачи для семинаров 2-3 – https://official.contest.yandex.ru/contest/29360/enter/
 * Задачи для семинаров 4-5 – https://official.contest.yandex.ru/contest/29484/enter/
+* Задачи для семинара 6 – https://official.contest.yandex.ru/contest/29700/enter/
 
 
 ## О курсе
