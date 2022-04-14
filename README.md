@@ -22,7 +22,7 @@
 * [Домашнее задание 1](https://official.contest.yandex.ru/contest/29361/enter/) – типы данных, условный оператор
 * [*Домашнее задание Р](https://docs.google.com/document/d/12yBNx3ycTtLwQic87ICSaAZNMvDBETtvtkjiQtqRzZ4/edit?usp=sharing) – регулярные выражения (выдается после 7 занятия) – БОНУС (необязательно)*
 * [Домашнее задание 2](https://official.contest.yandex.ru/contest/29698/enter/) – циклы, множества, словари
-* Домашнее задание 3 – классы (выдается после 7 занятия)
+* [Домашнее задание 3](https://official.contest.yandex.ru/contest/30015/enter/) – классы (выдается после 7 занятия)
 * *[Домашняя контрольная по Python](https://official.contest.yandex.ru/contest/31042/enter/) – БОНУС (необязательно)*
 
 **Формы контроля по сбору данных:**
