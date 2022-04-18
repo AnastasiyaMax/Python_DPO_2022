@@ -20,7 +20,7 @@
 
 **Формы контроля по основам программирования:**
 * [Домашнее задание 1](https://official.contest.yandex.ru/contest/29361/enter/) – типы данных, условный оператор
-* [*Домашнее задание Р](https://docs.google.com/document/d/12yBNx3ycTtLwQic87ICSaAZNMvDBETtvtkjiQtqRzZ4/edit?usp=sharing) – регулярные выражения (выдается после 7 занятия) – БОНУС (необязательно)*
+* *[Домашнее задание Р](https://docs.google.com/document/d/12yBNx3ycTtLwQic87ICSaAZNMvDBETtvtkjiQtqRzZ4/edit?usp=sharing) – регулярные выражения (выдается после 7 занятия) – БОНУС (необязательно)*
 * [Домашнее задание 2](https://official.contest.yandex.ru/contest/29698/enter/) – циклы, множества, словари
 * [Домашнее задание 3](https://official.contest.yandex.ru/contest/30015/enter/) – классы (выдается после 7 занятия)
 * *[Домашняя контрольная по Python](https://official.contest.yandex.ru/contest/31042/enter/) – БОНУС (необязательно)*
@@ -29,7 +29,7 @@
 
 Обязательно нужно сделать любой из трех проектов. Если сделаете все, то оценка за дополнительные пойдет как БОНУС.
 
-* * [Проект 1 (первая часть)](https://docs.google.com/document/d/16xLc9WPXgF-TrvGfo0WO7b1bzgpL1n14a-Mj5L5Ilu0/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 9 занятия)
+* [Проект 1 (первая часть)](https://docs.google.com/document/d/16xLc9WPXgF-TrvGfo0WO7b1bzgpL1n14a-Mj5L5Ilu0/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 9 занятия)
 * Проект 2 – сбор данных через API (выдается после 10 занятия), БОНУС
 * Проект 3 – сбор данных с помощью Selenium (выдается после 11 занятия).
 
