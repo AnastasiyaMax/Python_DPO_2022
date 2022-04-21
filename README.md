@@ -31,7 +31,7 @@
 
 * [Проект 1 (первая часть)](https://docs.google.com/document/d/16xLc9WPXgF-TrvGfo0WO7b1bzgpL1n14a-Mj5L5Ilu0/edit?usp=sharing) – парсинг данных с помощью requests и BeautifulSoup (выдается после 9 занятия)
 * [Проект 2](https://docs.google.com/document/d/1xTwjfx-j8lHPYzDJxjZVRBMGll2NPyKyVDICBZrpMCg/edit?usp=sharing) – сбор данных через API (выдается после 10 занятия)
-* Проект 3 – сбор данных с помощью Selenium (выдается после 11 занятия).
+* [Проект 3](https://docs.google.com/document/d/1yBJvv6uTxj6O37HFar6pL4DPRYcWJV2vql08dDSWMO8/edit?usp=sharing) – сбор данных с помощью Selenium (выдается после 11 занятия).
 
 * **Финальный проект по двум частям курса** – телеграм-бот, см. описание ниже + лекцию 12 (выдается после 12 занятия).
 
